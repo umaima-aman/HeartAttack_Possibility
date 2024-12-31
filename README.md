@@ -70,3 +70,6 @@ likelihood of a heart attack with an accuracy of approximate 86%.The efficacy of
 enhanced by the feature selection method ,which assisted in determining the most pertinent
 characteristics for heart attack prediction. The model’s learning process was illustrated by the
 training history plot ,which also showed strong convergence .
+
+![image](https://github.com/user-attachments/assets/13bd89af-244a-4c4f-b871-5d1c6aa12552)
+
